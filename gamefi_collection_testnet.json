@@ -166,6 +166,35 @@
 					"template_uri": "https://resource.metastrike.io/box/%s.json"
 				}
 			]
+		},
+		{
+			"name": "Heroes & Empires",
+			"description": "Heroes & Empires has exquisitely digital collectibles created using blockchain technology. Heroes & Empires Universe has a lot of different races like Human, Goblin, Elf, Demon, Beast, Naga, God and Undead which are waiting for the user to discover and collect.",
+			"logo_url": "https://heroesempires.com/static/media/logo.824444fe.png",
+			"cover_url": "https://market.heroesempires.com/banner.png",
+			"creator": "Heroes & Empires",
+			"genres": "IDLE",
+			"type":"featured",
+			"collections": [
+				{
+					"contract_address": "0x01C04dD6Cc9C167dAfbCA694D7f51d5f0f537AA8",
+					"chain_id": 97,
+					"collection_name": "Hero Assets",
+					"template_uri": "https://metadata-testnet.heroesempires.com/heroes/%s"
+				},
+				{
+					"contract_address": "0x280DA039b15e7FF9c2e2624c85e8376a1C46c184",
+					"chain_id": 97,
+					"collection_name": "Gear Assets",
+					"template_uri": "https://metadata-testnet.heroesempires.com/gear/%s"
+				},
+				{
+					"contract_address": "0x2e18e0C4010E213Db4ce05afC5fab3506c922b7f",
+					"chain_id": 97,
+					"collection_name": "Skin Assets",
+					"template_uri": "https://metadata-testnet.heroesempires.com/skin/%s"
+				}
+			]
 		}
 	]
 }
