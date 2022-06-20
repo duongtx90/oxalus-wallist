@@ -195,6 +195,23 @@
 					"template_uri": "https://metadata-testnet.heroesempires.com/skin/%s"
 				}
 			]
+		},
+		{
+		    "name": "Gunstar Metaverse",
+		    "type":"featured",
+		    "description": "Gunstar Metaverse is a turn-based artillery strategy NFT Game that gives you the real value of enjoyment and excitement in gaming and the real value provided through the blockchain platform. In order to participate in the Journey to save StarWorld, players need NFT Pets to leverage their gameplay skills , defeat monster and earning from game reward.",
+		    "logo_url": "https://data.gunstar.io/images/logo.png",
+		    "cover_url": "https://data.gunstar.io/images/banner.jpg",
+		    "creator": "GunstarLabs",
+		    "genres": "Turn-based artillery strategy",
+		    "collections": [
+		      {
+				"contract_address": "0xd8980339b275cb6fB9200b3b2A918d51E476ECa9",
+				"chain_id": 97,
+				"collection_name": "Gunstar Metaverse Pet",
+				"template_uri": "https://api-staging.gunstar.io/v1/pets/oxalus/%s.json"
+		      }
+			]
 		}
 	]
 }
