@@ -159,6 +159,40 @@
 		      "template_uri": "https://resource.metastrike.io/box/%s.json"
 		    }
 		  ]
-		}
+		},
+		{
+			"name": "Galaxy Survivor",
+			"description": "Galaxy Survivor is a Real-Time-Strategy game that combines Role Playing Game developed on Blockchain platform. It allows players to not only experience a beautiful, lively 3D and AR Game but also join battles, complete missions to receive valuable rewards (NFT).",
+			"logo_url": "https://cdn.galaxysurvivor.io/partner/logo.png",
+			"cover_url": "https://cdn.galaxysurvivor.io/partners/cover.png",
+			"creator": "Galaxy Survivor",
+			"genres": "RTS",
+			"collections": [
+			  {
+				"contract_address": "0x33adE2bE7D41aF792eCD251C456f62526E718e5a",
+				"chain_id": 43113,
+				"collection_name": "Ships",
+				"template_uri": "https://nft.galaxysurvivor.xyz/ships/%s"
+			  },
+			  {
+				"contract_address": "0x040Bf32d79FE8A46788Bdc0005832627dc5AE381",
+				"chain_id": 43113,
+				"collection_name": "Wargears",
+				"template_uri": "https://nft.galaxysurvivor.xyz/equipments/%s"
+			  },
+			  {
+				"contract_address": "0xF9A4acF2d891E8C7b6D567F65acdF87CCb23D733",
+				"chain_id": 43113,
+				"collection_name": "Tickets",
+				"template_uri": "https://nft.galaxysurvivor.xyz/tickets/%s"
+			  },
+			  {
+				"contract_address": "0x1C0cEc88c8baFDE3e7818c10e553F54844F197C5",
+				"chain_id": 43113,
+				"collection_name": "Blueprints",
+				"template_uri": "https://nft.galaxysurvivor.xyz/blueprints/%s"
+			  }
+			]
+		  }
 	]
 }
