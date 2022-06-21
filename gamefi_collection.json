@@ -202,6 +202,22 @@
 		      "template_uri": "https://resource.metastrike.io/box/%s.json"
 		    }
 		  ]
-		}	  
+	},
+        {
+            "name": "Galaxy Survivor",
+            "description": "Galaxy Survivor is a Real-Time-Strategy game that combines Role Playing Game developed on Blockchain platform. It allows players to not only experience a beautiful, lively 3D and AR Game but also join battles, complete missions to receive valuable rewards (NFT).",
+            "logo_url": "https://cdn.galaxysurvivor.io/partner/logo.png",
+            "cover_url": "https://cdn.galaxysurvivor.io/partners/cover.png",
+            "creator": "Galaxy Survivor",
+            "genres": "RTS",
+            "collections": [
+              {
+                "contract_address": "0x274c22eD70ef3B317608A6a2F2db6Ea88A9306d0",
+                "chain_id": 43113,
+                "collection_name": "Galaxy Tickets",
+                "template_uri": "https://nft.galaxysurvivor.io/tickets/%s"
+              }
+            ]
+          }  
 	]
 }
