@@ -220,6 +220,7 @@
 			"cover_url": "https://cdn.galaxysurvivor.io/partners/cover.png",
 			"creator": "Galaxy Survivor",
 			"genres": "RTS",
+			"type": "featured",
 			"collections": [
 			  {
 				"contract_address": "0x33adE2bE7D41aF792eCD251C456f62526E718e5a",
