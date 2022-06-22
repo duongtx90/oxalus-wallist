@@ -213,7 +213,7 @@
             "collections": [
               {
                 "contract_address": "0x274c22eD70ef3B317608A6a2F2db6Ea88A9306d0",
-                "chain_id": 43113,
+                "chain_id": 43114,
                 "collection_name": "Galaxy Tickets",
                 "template_uri": "https://nft.galaxysurvivor.io/tickets/%s"
               }
